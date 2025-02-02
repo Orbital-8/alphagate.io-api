@@ -1,0 +1,99 @@
+{
+    "message": "Fetched data successfully",
+    "data": {
+        "followings": [
+            {
+                "_id": "21003a13f8bf836f5aa52d7f0b0d1792e2cfa4885e7456cc7ac62155",
+                "username": "flaunchgg",
+                "parent_id": {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1867361901547573248/G2yQaazI_normal.jpg",
+                    "username": "agray1205",
+                    "description": "Working @sharedotxyz",
+                    "followers_count": 2484,
+                    "tag": [
+                        "Community Manager @uniswap"
+                    ],
+                    "custom_tags": null
+                },
+                "timestamp": 1738524793,
+                "followers_when_found": 15534,
+                "stats": null,
+                "child": null
+            },
+            {
+                "_id": "5d90a80603161fbb5402ca3300464c80b8dcb1895478ff83bef43168",
+                "username": "flaunchgg",
+                "parent_id": {
+                    "username": "lior_eth",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1883174856646168576/x2e_sBB9_normal.jpg",
+                    "description": "Founder @edenblockvc & @novel_labs, @hashratehackers. Accelerating crypto, ML, culture, founders. (not investment advice)",
+                    "followers_count": 64429,
+                    "tag": [
+                        "Founder @EdenBlockVC"
+                    ],
+                    "custom_tags": null
+                },
+                "timestamp": 1738524209,
+                "followers_when_found": 15530,
+                "stats": null,
+                "child": null
+            },
+            {
+                "_id": "d9b0e78387806f6bf09815b53a86cdba02c677bae439fedbe5319f2d",
+                "username": "flaunchgg",
+                "parent_id": {
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1508459764170248196/YMxW8YjQ_normal.jpg",
+                    "description": "data @dragonfly_xyz / host @indexed_pod",
+                    "username": "hildobby_",
+                    "followers_count": 29206,
+                    "tag": [
+                        "Data @dragonfly_xyz"
+                    ],
+                    "custom_tags": null
+                },
+                "timestamp": 1738522583,
+                "followers_when_found": 15515,
+                "stats": null,
+                "child": null
+            },
+            {
+                "_id": "6a87e29acfd5776621cca9c17ad2a3e355e21821f78bb5e7b02f435b",
+                "username": "flaunchgg",
+                "parent_id": {
+                    "description": "browsing the ether\npy/sol\nhot-single-girl",
+                    "username": "hsgeth",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1877074304291991552/VhLmtIju_normal.png",
+                    "followers_count": 3193,
+                    "tag": [
+                        "Alpha Hunter"
+                    ],
+                    "custom_tags": null
+                },
+                "timestamp": 1738506718,
+                "followers_when_found": 15126,
+                "stats": null,
+                "child": null
+            },
+            {
+                "_id": "857400e14f9eb52783243e41c6ee3aad2558f9bf2445ad18fadb86cf",
+                "username": "flaunchgg",
+                "parent_id": {
+                    "description": "@Newwaves_nft | @82HouseNFT | @HYPELABS_WEB3 | https://t.co/kDtrIuEo0S",
+                    "username": "Statikk_nft",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1714139881151311872/2mS9fcX7_normal.jpg",
+                    "followers_count": 12796,
+                    "tag": [
+                        "Alpha Hunter"
+                    ],
+                    "custom_tags": null
+                },
+                "timestamp": 1738506194,
+                "followers_when_found": 15107,
+                "stats": null,
+                "child": null
+            }
+        ],
+        "hasNext": true,
+        "hasTwoNext": true
+    }
+}

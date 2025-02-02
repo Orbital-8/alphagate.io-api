@@ -1,0 +1,152 @@
+{
+    "message": "Fetched alerts",
+    "data": {
+        "alerts": [
+            {
+                "_id": "67894fe6c457bcf4dd08a4c5",
+                "timestamp": 1737052134,
+                "id_type": "child",
+                "twitter_id": {
+                    "_id": "1833423791646547968",
+                    "username": "flaunchgg",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1836757887986925568/FqtYY4lP_normal.jpg",
+                    "key_followers_count": 470,
+                    "timestamp": 1727419890
+                },
+                "code": 1,
+                "from": "Buy, sell and launch memes. 100% of trading fees go to creators and buybacks. Powered by Uniswap V4. Degens in control.",
+                "key": "description",
+                "text": "Updated description: from \"Buy, sell and launch memes. 100% of trading fees go to creators and buybacks. Powered by Uniswap V4. Degens in control.\" to \"Buy, sell and launch memes. 100% of trading fees go to creators and buybacks. Powered by Uniswap V4. https://t.co/Y2tNhLxzaI | https://t.co/l6fHIhLPaQ\""
+            },
+            {
+                "_id": "67894fe6c457bcf4dd08a4c6",
+                "timestamp": 1737052134,
+                "id_type": "child",
+                "twitter_id": {
+                    "_id": "1833423791646547968",
+                    "username": "flaunchgg",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1836757887986925568/FqtYY4lP_normal.jpg",
+                    "key_followers_count": 470,
+                    "timestamp": 1727419890
+                },
+                "code": 0,
+                "from": "Buy, sell and launch memes. 100% of trading fees go to creators and buybacks. Powered by Uniswap V4. Degens in control.",
+                "key": "telegram",
+                "text": "Added telegram: https://t.me/flaunchgg"
+            },
+            {
+                "_id": "67894fe6c457bcf4dd08a4c7",
+                "timestamp": 1737052134,
+                "id_type": "child",
+                "twitter_id": {
+                    "_id": "1833423791646547968",
+                    "username": "flaunchgg",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1836757887986925568/FqtYY4lP_normal.jpg",
+                    "key_followers_count": 470,
+                    "timestamp": 1727419890
+                },
+                "code": 0,
+                "from": "Buy, sell and launch memes. 100% of trading fees go to creators and buybacks. Powered by Uniswap V4. Degens in control.",
+                "key": "discord",
+                "text": "Added discord: https://discord.gg/flaunch"
+            },
+            {
+                "_id": "67134cff6e7f0c38e6d6fe4b",
+                "timestamp": 1729318143,
+                "id_type": "child",
+                "twitter_id": {
+                    "_id": "1833423791646547968",
+                    "username": "flaunchgg",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1836757887986925568/FqtYY4lP_normal.jpg",
+                    "key_followers_count": 470,
+                    "timestamp": 1727419890
+                },
+                "code": 1,
+                "from": "Buy, sell and launch memes. Trade revenue streams. 100% of the trading fees go to creators and communities.\n\nDegens in Control. Powered by Uniswap V4.",
+                "key": "description",
+                "text": "Updated description: from \"Buy, sell and launch memes. Trade revenue streams. 100% of the trading fees go to creators and communities.\n\nDegens in Control. Powered by Uniswap V4.\" to \"Buy, sell and launch memes. 100% of trading fees go to creators and buybacks. Powered by Uniswap V4. Degens in control.\""
+            },
+            {
+                "_id": "670c2e4383b520a1c633746d",
+                "timestamp": 1728851523,
+                "id_type": "child",
+                "twitter_id": {
+                    "_id": "1833423791646547968",
+                    "username": "flaunchgg",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1836757887986925568/FqtYY4lP_normal.jpg",
+                    "key_followers_count": 470,
+                    "timestamp": 1727419890
+                },
+                "key": "website",
+                "text": "Added website: https://flaunch.gg",
+                "code": 0
+            },
+            {
+                "_id": "66fc1a7fe0ae1604ff9bc59a",
+                "timestamp": 1727797887,
+                "id_type": "child",
+                "twitter_id": {
+                    "_id": "1833423791646547968",
+                    "username": "flaunchgg",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1836757887986925568/FqtYY4lP_normal.jpg",
+                    "key_followers_count": 470,
+                    "timestamp": 1727419890
+                },
+                "code": 1,
+                "from": "Buy, sell and launch memes. Transfer revenue streams. Creators and communities take ALL the trading fees.\n\nExclusively on Base. Powered by Uniswap V4.",
+                "key": "description",
+                "text": "Updated description: from \"Buy, sell and launch memes. Transfer revenue streams. Creators and communities take ALL the trading fees.\n\nExclusively on Base. Powered by Uniswap V4.\" to \"Buy, sell and launch memes. Trade revenue streams. 100% of the trading fees go to creators and communities.\n\nDegens in Control. Powered by Uniswap V4.\""
+            },
+            {
+                "_id": "66fb78e3e0ae1604ff9bc4e6",
+                "timestamp": 1727756515,
+                "id_type": "child",
+                "twitter_id": {
+                    "_id": "1833423791646547968",
+                    "username": "flaunchgg",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1836757887986925568/FqtYY4lP_normal.jpg",
+                    "key_followers_count": 470,
+                    "timestamp": 1727419890
+                },
+                "code": 1,
+                "from": "Devs get Revs—A launchpad with 100% revenue share for creators and communities.\n\nƒlaunch a coin.",
+                "key": "description",
+                "text": "Updated description: from \"Devs get Revs—A launchpad with 100% revenue share for creators and communities.\n\nƒlaunch a coin.\" to \"Buy, sell and launch memes. Transfer revenue streams. Creators and communities take ALL the trading fees.\n\nExclusively on Base. Powered by Uniswap V4.\""
+            },
+            {
+                "_id": "66fa742478e4986563ce9f78",
+                "timestamp": 1727689764,
+                "id_type": "child",
+                "twitter_id": {
+                    "_id": "1833423791646547968",
+                    "username": "flaunchgg",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1836757887986925568/FqtYY4lP_normal.jpg",
+                    "key_followers_count": 470,
+                    "timestamp": 1727419890
+                },
+                "code": 1,
+                "from": "A launchpad where 100% of the trading revenues go to the dev and holders. \n\nFlaunch your next memecoin and get paid.",
+                "key": "description",
+                "text": "Updated description: from \"A launchpad where 100% of the trading revenues go to the dev and holders. \n\nFlaunch your next memecoin and get paid.\" to \"Devs get Revs—A launchpad with 100% revenue share for creators and communities.\n\nƒlaunch a coin.\""
+            },
+            {
+                "_id": "66fa742478e4986563ce9f79",
+                "timestamp": 1727689764,
+                "id_type": "child",
+                "twitter_id": {
+                    "_id": "1833423791646547968",
+                    "username": "flaunchgg",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1836757887986925568/FqtYY4lP_normal.jpg",
+                    "key_followers_count": 470,
+                    "timestamp": 1727419890
+                },
+                "code": 2,
+                "from": "http://flaunch.gg",
+                "key": "website",
+                "text": "Removed website"
+            }
+        ],
+        "hasNext": false,
+        "hasTwoNext": false
+    }
+}

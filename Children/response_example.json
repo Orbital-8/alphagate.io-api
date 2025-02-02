@@ -1,0 +1,1750 @@
+{
+    "message": "Fetched data successfully",
+    "data": {
+        "child": {
+            "likesCount": 0,
+            "dislikesCount": 0,
+            "flag": false,
+            "prev_usernames": [],
+            "_id": "1833423791646547968",
+            "created_at": "2024-09-10T08:35:13+00:00",
+            "id": "1833423791646547968",
+            "description": "Buy, sell and launch memes. 100% of trading fees go to creators and buybacks. Powered by Uniswap V4. https://t.co/Y2tNhLxzaI | https://t.co/l6fHIhLPaQ",
+            "name": "ƒlaunch",
+            "username": "flaunchgg",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1836757887986925568/FqtYY4lP_normal.jpg",
+            "unavailable": false,
+            "tag": [
+                "DEX",
+                "Memecoins"
+            ],
+            "chain": [
+                "Base",
+                "Ethereum"
+            ],
+            "contracts": [
+                "0xf1a7000000950c7ad8aff13118bb7ab561a448ee"
+            ],
+            "social": {
+                "website": {
+                    "expanded_url": "https://flaunch.gg",
+                    "display_url": "flaunch.gg"
+                },
+                "discord": {
+                    "expanded_url": "https://discord.gg/flaunch",
+                    "display_url": "discord.gg/flaunch"
+                },
+                "telegram": {
+                    "expanded_url": "https://t.me/flaunchgg",
+                    "display_url": "t.me/flaunchgg"
+                },
+                "socials": [
+                    "website",
+                    "discord",
+                    "telegram"
+                ]
+            },
+            "parent_id": {
+                "tag": [
+                    "Member @dcv_capital"
+                ]
+            },
+            "followers_count": 15534,
+            "key_followers_count": 470,
+            "timestamp": 1727419890,
+            "daily_stats": [
+                {
+                    "date": "10-09-2024",
+                    "timestamp": 1725957313,
+                    "followers_count": 0,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 0,
+                    "key_followers": 0,
+                    "score": 0
+                },
+                {
+                    "date": "27-09-2024",
+                    "timestamp": 1727449261,
+                    "followers_count": 3,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 0,
+                    "key_followers": 2,
+                    "score": 2
+                },
+                {
+                    "date": "28-09-2024",
+                    "timestamp": 1727561363,
+                    "followers_count": 37,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 2,
+                    "key_followers": 9,
+                    "score": 9
+                },
+                {
+                    "date": "29-09-2024",
+                    "timestamp": 1727628837,
+                    "followers_count": 79,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 6,
+                    "key_followers": 11,
+                    "score": 11
+                },
+                {
+                    "date": "30-09-2024",
+                    "timestamp": 1727715082,
+                    "followers_count": 154,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 8,
+                    "key_followers": 15,
+                    "score": 15
+                },
+                {
+                    "date": "01-10-2024",
+                    "timestamp": 1727797887,
+                    "followers_count": 167,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 9,
+                    "key_followers": 15,
+                    "score": 15
+                },
+                {
+                    "date": "02-10-2024",
+                    "timestamp": 1727877230,
+                    "followers_count": 186,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 10,
+                    "key_followers": 15,
+                    "score": 15
+                },
+                {
+                    "date": "03-10-2024",
+                    "timestamp": 1727959846,
+                    "followers_count": 199,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 11,
+                    "key_followers": 15,
+                    "score": 15
+                },
+                {
+                    "date": "04-10-2024",
+                    "timestamp": 1728066928,
+                    "followers_count": 213,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 12,
+                    "key_followers": 16,
+                    "score": 16
+                },
+                {
+                    "date": "05-10-2024",
+                    "timestamp": 1728147780,
+                    "followers_count": 212,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 12,
+                    "key_followers": 16,
+                    "score": 16
+                },
+                {
+                    "date": "06-10-2024",
+                    "timestamp": 1728230193,
+                    "followers_count": 219,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 12,
+                    "key_followers": 17,
+                    "score": 17
+                },
+                {
+                    "date": "07-10-2024",
+                    "timestamp": 1728327223,
+                    "followers_count": 229,
+                    "following_count": 0,
+                    "tweet_count": 0,
+                    "listed_count": 12,
+                    "key_followers": 19,
+                    "score": 19
+                },
+                {
+                    "date": "08-10-2024",
+                    "timestamp": 1728410807,
+                    "followers_count": 422,
+                    "following_count": 3,
+                    "tweet_count": 1,
+                    "listed_count": 15,
+                    "key_followers": 45,
+                    "score": 45
+                },
+                {
+                    "date": "09-10-2024",
+                    "timestamp": 1728516432,
+                    "followers_count": 549,
+                    "following_count": 3,
+                    "tweet_count": 3,
+                    "listed_count": 15,
+                    "key_followers": 56,
+                    "score": 56
+                },
+                {
+                    "date": "10-10-2024",
+                    "timestamp": 1728583713,
+                    "followers_count": 596,
+                    "following_count": 3,
+                    "tweet_count": 5,
+                    "listed_count": 14,
+                    "key_followers": 58,
+                    "score": 58
+                },
+                {
+                    "date": "11-10-2024",
+                    "timestamp": 1728674271,
+                    "followers_count": 627,
+                    "following_count": 3,
+                    "tweet_count": 16,
+                    "listed_count": 15,
+                    "key_followers": 65,
+                    "score": 65
+                },
+                {
+                    "date": "12-10-2024",
+                    "timestamp": 1728766760,
+                    "followers_count": 743,
+                    "following_count": 3,
+                    "tweet_count": 20,
+                    "listed_count": 18,
+                    "key_followers": 71,
+                    "score": 71
+                },
+                {
+                    "date": "13-10-2024",
+                    "timestamp": 1728851523,
+                    "followers_count": 819,
+                    "following_count": 3,
+                    "tweet_count": 26,
+                    "listed_count": 19,
+                    "key_followers": 73,
+                    "score": 73
+                },
+                {
+                    "date": "14-10-2024",
+                    "timestamp": 1728950352,
+                    "followers_count": 845,
+                    "following_count": 3,
+                    "tweet_count": 33,
+                    "listed_count": 18,
+                    "key_followers": 75,
+                    "score": 75
+                },
+                {
+                    "date": "15-10-2024",
+                    "timestamp": 1729036792,
+                    "followers_count": 854,
+                    "following_count": 3,
+                    "tweet_count": 42,
+                    "listed_count": 19,
+                    "key_followers": 75,
+                    "score": 75
+                },
+                {
+                    "date": "16-10-2024",
+                    "timestamp": 1729123183,
+                    "followers_count": 868,
+                    "following_count": 3,
+                    "tweet_count": 47,
+                    "listed_count": 20,
+                    "key_followers": 76,
+                    "score": 76
+                },
+                {
+                    "date": "17-10-2024",
+                    "timestamp": 1729209598,
+                    "followers_count": 877,
+                    "following_count": 3,
+                    "tweet_count": 54,
+                    "listed_count": 20,
+                    "key_followers": 77,
+                    "score": 77
+                },
+                {
+                    "date": "18-10-2024",
+                    "timestamp": 1729295992,
+                    "followers_count": 923,
+                    "following_count": 3,
+                    "tweet_count": 67,
+                    "listed_count": 20,
+                    "key_followers": 82,
+                    "score": 82
+                },
+                {
+                    "date": "19-10-2024",
+                    "timestamp": 1729382385,
+                    "followers_count": 941,
+                    "following_count": 3,
+                    "tweet_count": 72,
+                    "listed_count": 21,
+                    "key_followers": 84,
+                    "score": 84
+                },
+                {
+                    "date": "20-10-2024",
+                    "timestamp": 1729468794,
+                    "followers_count": 963,
+                    "following_count": 3,
+                    "tweet_count": 77,
+                    "listed_count": 21,
+                    "key_followers": 84,
+                    "score": 84
+                },
+                {
+                    "date": "21-10-2024",
+                    "timestamp": 1729555145,
+                    "followers_count": 975,
+                    "following_count": 3,
+                    "tweet_count": 87,
+                    "listed_count": 22,
+                    "key_followers": 84,
+                    "score": 84
+                },
+                {
+                    "date": "22-10-2024",
+                    "timestamp": 1729641584,
+                    "followers_count": 993,
+                    "following_count": 3,
+                    "tweet_count": 91,
+                    "listed_count": 22,
+                    "key_followers": 85,
+                    "score": 85
+                },
+                {
+                    "date": "23-10-2024",
+                    "timestamp": 1729727952,
+                    "followers_count": 1002,
+                    "following_count": 3,
+                    "tweet_count": 98,
+                    "listed_count": 23,
+                    "key_followers": 86,
+                    "score": 86
+                },
+                {
+                    "date": "24-10-2024",
+                    "timestamp": 1729775256,
+                    "followers_count": 1007,
+                    "following_count": 3,
+                    "tweet_count": 98,
+                    "listed_count": 23,
+                    "key_followers": 87,
+                    "score": 87
+                },
+                {
+                    "date": "25-10-2024",
+                    "timestamp": 1729900162,
+                    "followers_count": 1018,
+                    "following_count": 43,
+                    "tweet_count": 113,
+                    "listed_count": 22,
+                    "key_followers": 87,
+                    "score": 87
+                },
+                {
+                    "date": "26-10-2024",
+                    "timestamp": 1729987150,
+                    "followers_count": 1030,
+                    "following_count": 48,
+                    "tweet_count": 121,
+                    "listed_count": 22,
+                    "key_followers": 89,
+                    "score": 89
+                },
+                {
+                    "date": "27-10-2024",
+                    "timestamp": 1730073560,
+                    "followers_count": 1035,
+                    "following_count": 48,
+                    "tweet_count": 127,
+                    "listed_count": 22,
+                    "key_followers": 89,
+                    "score": 89
+                },
+                {
+                    "date": "28-10-2024",
+                    "timestamp": 1730159953,
+                    "followers_count": 1055,
+                    "following_count": 49,
+                    "tweet_count": 132,
+                    "listed_count": 22,
+                    "key_followers": 93,
+                    "score": 93
+                },
+                {
+                    "date": "29-10-2024",
+                    "timestamp": 1730246346,
+                    "followers_count": 1062,
+                    "following_count": 49,
+                    "tweet_count": 136,
+                    "listed_count": 23,
+                    "key_followers": 93,
+                    "score": 93
+                },
+                {
+                    "date": "30-10-2024",
+                    "timestamp": 1730332746,
+                    "followers_count": 1067,
+                    "following_count": 56,
+                    "tweet_count": 137,
+                    "listed_count": 24,
+                    "key_followers": 93,
+                    "score": 93
+                },
+                {
+                    "date": "31-10-2024",
+                    "timestamp": 1730408145,
+                    "followers_count": 1072,
+                    "following_count": 56,
+                    "tweet_count": 138,
+                    "listed_count": 24,
+                    "key_followers": 93,
+                    "score": 93
+                },
+                {
+                    "date": "01-11-2024",
+                    "timestamp": 1730500229,
+                    "followers_count": 1079,
+                    "following_count": 56,
+                    "tweet_count": 140,
+                    "listed_count": 24,
+                    "key_followers": 93,
+                    "score": 93
+                },
+                {
+                    "date": "02-11-2024",
+                    "timestamp": 1730586116,
+                    "followers_count": 1093,
+                    "following_count": 56,
+                    "tweet_count": 142,
+                    "listed_count": 23,
+                    "key_followers": 93,
+                    "score": 93
+                },
+                {
+                    "date": "03-11-2024",
+                    "timestamp": 1730669339,
+                    "followers_count": 1098,
+                    "following_count": 56,
+                    "tweet_count": 143,
+                    "listed_count": 24,
+                    "key_followers": 93,
+                    "score": 93
+                },
+                {
+                    "date": "04-11-2024",
+                    "timestamp": 1730755445,
+                    "followers_count": 1123,
+                    "following_count": 57,
+                    "tweet_count": 146,
+                    "listed_count": 24,
+                    "key_followers": 93,
+                    "score": 93
+                },
+                {
+                    "date": "05-11-2024",
+                    "timestamp": 1730841288,
+                    "followers_count": 1138,
+                    "following_count": 58,
+                    "tweet_count": 152,
+                    "listed_count": 25,
+                    "key_followers": 95,
+                    "score": 95
+                },
+                {
+                    "date": "06-11-2024",
+                    "timestamp": 1730933353,
+                    "followers_count": 1136,
+                    "following_count": 60,
+                    "tweet_count": 155,
+                    "listed_count": 25,
+                    "key_followers": 95,
+                    "score": 95
+                },
+                {
+                    "date": "07-11-2024",
+                    "timestamp": 1730973078,
+                    "followers_count": 1138,
+                    "following_count": 60,
+                    "tweet_count": 155,
+                    "listed_count": 25,
+                    "key_followers": 95,
+                    "score": 95
+                },
+                {
+                    "date": "09-11-2024",
+                    "timestamp": 1731193242,
+                    "followers_count": 1157,
+                    "following_count": 88,
+                    "tweet_count": 163,
+                    "listed_count": 25,
+                    "key_followers": 95,
+                    "score": 95
+                },
+                {
+                    "date": "10-11-2024",
+                    "timestamp": 1731271023,
+                    "followers_count": 1165,
+                    "following_count": 90,
+                    "tweet_count": 166,
+                    "listed_count": 25,
+                    "key_followers": 95,
+                    "score": 95
+                },
+                {
+                    "date": "11-11-2024",
+                    "timestamp": 1731348384,
+                    "followers_count": 1179,
+                    "following_count": 92,
+                    "tweet_count": 167,
+                    "listed_count": 25,
+                    "key_followers": 96,
+                    "score": 96
+                },
+                {
+                    "date": "12-11-2024",
+                    "timestamp": 1731380456,
+                    "followers_count": 1187,
+                    "following_count": 93,
+                    "tweet_count": 168,
+                    "listed_count": 26,
+                    "key_followers": 97,
+                    "score": 97
+                },
+                {
+                    "date": "13-11-2024",
+                    "timestamp": 1731541353,
+                    "followers_count": 1219,
+                    "following_count": 96,
+                    "tweet_count": 173,
+                    "listed_count": 26,
+                    "key_followers": 98,
+                    "score": 98
+                },
+                {
+                    "date": "14-11-2024",
+                    "timestamp": 1731611824,
+                    "followers_count": 1257,
+                    "following_count": 96,
+                    "tweet_count": 175,
+                    "listed_count": 26,
+                    "key_followers": 101,
+                    "score": 101
+                },
+                {
+                    "date": "15-11-2024",
+                    "timestamp": 1731690988,
+                    "followers_count": 1257,
+                    "following_count": 98,
+                    "tweet_count": 180,
+                    "listed_count": 26,
+                    "key_followers": 101,
+                    "score": 101
+                },
+                {
+                    "date": "16-11-2024",
+                    "timestamp": 1731789055,
+                    "followers_count": 1264,
+                    "following_count": 98,
+                    "tweet_count": 181,
+                    "listed_count": 26,
+                    "key_followers": 101,
+                    "score": 101
+                },
+                {
+                    "date": "17-11-2024",
+                    "timestamp": 1731877562,
+                    "followers_count": 1255,
+                    "following_count": 98,
+                    "tweet_count": 185,
+                    "listed_count": 26,
+                    "key_followers": 101,
+                    "score": 101
+                },
+                {
+                    "date": "18-11-2024",
+                    "timestamp": 1731965494,
+                    "followers_count": 1267,
+                    "following_count": 98,
+                    "tweet_count": 189,
+                    "listed_count": 26,
+                    "key_followers": 102,
+                    "score": 102
+                },
+                {
+                    "date": "19-11-2024",
+                    "timestamp": 1732055808,
+                    "followers_count": 1274,
+                    "following_count": 98,
+                    "tweet_count": 190,
+                    "listed_count": 26,
+                    "key_followers": 102,
+                    "score": 102
+                },
+                {
+                    "date": "20-11-2024",
+                    "timestamp": 1732134784,
+                    "followers_count": 1277,
+                    "following_count": 110,
+                    "tweet_count": 196,
+                    "listed_count": 26,
+                    "key_followers": 102,
+                    "score": 102
+                },
+                {
+                    "date": "21-11-2024",
+                    "timestamp": 1732218455,
+                    "followers_count": 1282,
+                    "following_count": 110,
+                    "tweet_count": 200,
+                    "listed_count": 26,
+                    "key_followers": 102,
+                    "score": 102
+                },
+                {
+                    "date": "22-11-2024",
+                    "timestamp": 1732309782,
+                    "followers_count": 1306,
+                    "following_count": 125,
+                    "tweet_count": 205,
+                    "listed_count": 26,
+                    "key_followers": 103,
+                    "score": 103
+                },
+                {
+                    "date": "23-11-2024",
+                    "timestamp": 1732396213,
+                    "followers_count": 1315,
+                    "following_count": 126,
+                    "tweet_count": 209,
+                    "listed_count": 26,
+                    "key_followers": 104,
+                    "score": 104
+                },
+                {
+                    "date": "24-11-2024",
+                    "timestamp": 1732482440,
+                    "followers_count": 1317,
+                    "following_count": 126,
+                    "tweet_count": 210,
+                    "listed_count": 26,
+                    "key_followers": 104,
+                    "score": 104
+                },
+                {
+                    "date": "25-11-2024",
+                    "timestamp": 1732578631,
+                    "followers_count": 1327,
+                    "following_count": 126,
+                    "tweet_count": 214,
+                    "listed_count": 26,
+                    "key_followers": 105,
+                    "score": 105
+                },
+                {
+                    "date": "26-11-2024",
+                    "timestamp": 1732631269,
+                    "followers_count": 1337,
+                    "following_count": 128,
+                    "tweet_count": 223,
+                    "listed_count": 26,
+                    "key_followers": 106,
+                    "score": 106
+                },
+                {
+                    "date": "27-11-2024",
+                    "timestamp": 1732747874,
+                    "followers_count": 1359,
+                    "following_count": 130,
+                    "tweet_count": 233,
+                    "listed_count": 25,
+                    "key_followers": 108,
+                    "score": 108
+                },
+                {
+                    "date": "28-11-2024",
+                    "timestamp": 1732829111,
+                    "followers_count": 1429,
+                    "following_count": 130,
+                    "tweet_count": 234,
+                    "listed_count": 27,
+                    "key_followers": 110,
+                    "score": 110
+                },
+                {
+                    "date": "29-11-2024",
+                    "timestamp": 1732908196,
+                    "followers_count": 1446,
+                    "following_count": 131,
+                    "tweet_count": 238,
+                    "listed_count": 27,
+                    "key_followers": 110,
+                    "score": 110
+                },
+                {
+                    "date": "30-11-2024",
+                    "timestamp": 1733009180,
+                    "followers_count": 1462,
+                    "following_count": 135,
+                    "tweet_count": 242,
+                    "listed_count": 29,
+                    "key_followers": 118,
+                    "score": 118
+                },
+                {
+                    "date": "01-12-2024",
+                    "timestamp": 1733068933,
+                    "followers_count": 1470,
+                    "following_count": 134,
+                    "tweet_count": 243,
+                    "listed_count": 30,
+                    "key_followers": 118,
+                    "score": 118
+                },
+                {
+                    "date": "02-12-2024",
+                    "timestamp": 1733170945,
+                    "followers_count": 1494,
+                    "following_count": 140,
+                    "tweet_count": 245,
+                    "listed_count": 30,
+                    "key_followers": 120,
+                    "score": 120
+                },
+                {
+                    "date": "03-12-2024",
+                    "timestamp": 1733231663,
+                    "followers_count": 1493,
+                    "following_count": 140,
+                    "tweet_count": 246,
+                    "listed_count": 30,
+                    "key_followers": 121,
+                    "score": 121
+                },
+                {
+                    "date": "04-12-2024",
+                    "timestamp": 1733344034,
+                    "followers_count": 1486,
+                    "following_count": 140,
+                    "tweet_count": 260,
+                    "listed_count": 30,
+                    "key_followers": 122,
+                    "score": 122
+                },
+                {
+                    "date": "05-12-2024",
+                    "timestamp": 1733432654,
+                    "followers_count": 1534,
+                    "following_count": 149,
+                    "tweet_count": 278,
+                    "listed_count": 31,
+                    "key_followers": 126,
+                    "score": 126
+                },
+                {
+                    "date": "06-12-2024",
+                    "timestamp": 1733512135,
+                    "followers_count": 1577,
+                    "following_count": 155,
+                    "tweet_count": 300,
+                    "listed_count": 31,
+                    "key_followers": 126,
+                    "score": 126
+                },
+                {
+                    "date": "07-12-2024",
+                    "timestamp": 1733602880,
+                    "followers_count": 1602,
+                    "following_count": 155,
+                    "tweet_count": 306,
+                    "listed_count": 31,
+                    "key_followers": 127,
+                    "score": 127
+                },
+                {
+                    "date": "08-12-2024",
+                    "timestamp": 1733692489,
+                    "followers_count": 1638,
+                    "following_count": 155,
+                    "tweet_count": 315,
+                    "listed_count": 31,
+                    "key_followers": 128,
+                    "score": 128
+                },
+                {
+                    "date": "09-12-2024",
+                    "timestamp": 1733778990,
+                    "followers_count": 1648,
+                    "following_count": 155,
+                    "tweet_count": 323,
+                    "listed_count": 31,
+                    "key_followers": 128,
+                    "score": 128
+                },
+                {
+                    "date": "10-12-2024",
+                    "timestamp": 1733869753,
+                    "followers_count": 1651,
+                    "following_count": 155,
+                    "tweet_count": 327,
+                    "listed_count": 31,
+                    "key_followers": 128,
+                    "score": 128
+                },
+                {
+                    "date": "11-12-2024",
+                    "timestamp": 1733955913,
+                    "followers_count": 1658,
+                    "following_count": 155,
+                    "tweet_count": 334,
+                    "listed_count": 32,
+                    "key_followers": 128,
+                    "score": 128
+                },
+                {
+                    "date": "12-12-2024",
+                    "timestamp": 1734029229,
+                    "followers_count": 1665,
+                    "following_count": 154,
+                    "tweet_count": 341,
+                    "listed_count": 33,
+                    "key_followers": 128,
+                    "score": 128
+                },
+                {
+                    "date": "13-12-2024",
+                    "timestamp": 1734122647,
+                    "followers_count": 1670,
+                    "following_count": 154,
+                    "tweet_count": 343,
+                    "listed_count": 33,
+                    "key_followers": 128,
+                    "score": 128
+                },
+                {
+                    "date": "14-12-2024",
+                    "timestamp": 1734216500,
+                    "followers_count": 1675,
+                    "following_count": 154,
+                    "tweet_count": 353,
+                    "listed_count": 33,
+                    "key_followers": 128,
+                    "score": 128
+                },
+                {
+                    "date": "15-12-2024",
+                    "timestamp": 1734281342,
+                    "followers_count": 1668,
+                    "following_count": 155,
+                    "tweet_count": 360,
+                    "listed_count": 33,
+                    "key_followers": 128,
+                    "score": 128
+                },
+                {
+                    "date": "16-12-2024",
+                    "timestamp": 1734377225,
+                    "followers_count": 1674,
+                    "following_count": 156,
+                    "tweet_count": 370,
+                    "listed_count": 32,
+                    "key_followers": 128,
+                    "score": 128
+                },
+                {
+                    "date": "17-12-2024",
+                    "timestamp": 1734470278,
+                    "followers_count": 1670,
+                    "following_count": 155,
+                    "tweet_count": 373,
+                    "listed_count": 32,
+                    "key_followers": 129,
+                    "score": 129
+                },
+                {
+                    "date": "18-12-2024",
+                    "timestamp": 1734554879,
+                    "followers_count": 1667,
+                    "following_count": 157,
+                    "tweet_count": 376,
+                    "listed_count": 32,
+                    "key_followers": 130,
+                    "score": 130
+                },
+                {
+                    "date": "19-12-2024",
+                    "timestamp": 1734648579,
+                    "followers_count": 1671,
+                    "following_count": 159,
+                    "tweet_count": 379,
+                    "listed_count": 33,
+                    "key_followers": 130,
+                    "score": 130
+                },
+                {
+                    "date": "20-12-2024",
+                    "timestamp": 1734729236,
+                    "followers_count": 1685,
+                    "following_count": 159,
+                    "tweet_count": 393,
+                    "listed_count": 33,
+                    "key_followers": 132,
+                    "score": 132
+                },
+                {
+                    "date": "21-12-2024",
+                    "timestamp": 1734821447,
+                    "followers_count": 1821,
+                    "following_count": 168,
+                    "tweet_count": 477,
+                    "listed_count": 34,
+                    "key_followers": 139,
+                    "score": 139
+                },
+                {
+                    "date": "22-12-2024",
+                    "timestamp": 1734898932,
+                    "followers_count": 1837,
+                    "following_count": 169,
+                    "tweet_count": 481,
+                    "listed_count": 34,
+                    "key_followers": 139,
+                    "score": 139
+                },
+                {
+                    "date": "23-12-2024",
+                    "timestamp": 1734978218,
+                    "followers_count": 1836,
+                    "following_count": 170,
+                    "tweet_count": 484,
+                    "listed_count": 35,
+                    "key_followers": 139,
+                    "score": 139
+                },
+                {
+                    "date": "24-12-2024",
+                    "timestamp": 1735018105,
+                    "followers_count": 1837,
+                    "following_count": 171,
+                    "tweet_count": 487,
+                    "listed_count": 35,
+                    "key_followers": 139,
+                    "score": 139
+                },
+                {
+                    "date": "25-12-2024",
+                    "timestamp": 1735147489,
+                    "followers_count": 1836,
+                    "following_count": 172,
+                    "tweet_count": 489,
+                    "listed_count": 35,
+                    "key_followers": 139,
+                    "score": 139
+                },
+                {
+                    "date": "26-12-2024",
+                    "timestamp": 1735203646,
+                    "followers_count": 1838,
+                    "following_count": 172,
+                    "tweet_count": 495,
+                    "listed_count": 35,
+                    "key_followers": 139,
+                    "score": 139
+                },
+                {
+                    "date": "27-12-2024",
+                    "timestamp": 1735339672,
+                    "followers_count": 1847,
+                    "following_count": 172,
+                    "tweet_count": 501,
+                    "listed_count": 35,
+                    "key_followers": 139,
+                    "score": 139
+                },
+                {
+                    "date": "28-12-2024",
+                    "timestamp": 1735416841,
+                    "followers_count": 1854,
+                    "following_count": 172,
+                    "tweet_count": 514,
+                    "listed_count": 34,
+                    "key_followers": 139,
+                    "score": 139
+                },
+                {
+                    "date": "29-12-2024",
+                    "timestamp": 1735511389,
+                    "followers_count": 1843,
+                    "following_count": 172,
+                    "tweet_count": 517,
+                    "listed_count": 34,
+                    "key_followers": 139,
+                    "score": 139
+                },
+                {
+                    "date": "30-12-2024",
+                    "timestamp": 1735587310,
+                    "followers_count": 1849,
+                    "following_count": 175,
+                    "tweet_count": 531,
+                    "listed_count": 35,
+                    "key_followers": 139,
+                    "score": 139
+                },
+                {
+                    "date": "31-12-2024",
+                    "timestamp": 1735669254,
+                    "followers_count": 1847,
+                    "following_count": 174,
+                    "tweet_count": 537,
+                    "listed_count": 35,
+                    "key_followers": 139,
+                    "score": 139
+                },
+                {
+                    "date": "01-01-2025",
+                    "timestamp": 1735759281,
+                    "followers_count": 1852,
+                    "following_count": 174,
+                    "tweet_count": 543,
+                    "listed_count": 35,
+                    "key_followers": 139,
+                    "score": 139
+                },
+                {
+                    "date": "02-01-2025",
+                    "timestamp": 1735857399,
+                    "followers_count": 1865,
+                    "following_count": 174,
+                    "tweet_count": 550,
+                    "listed_count": 35,
+                    "key_followers": 140,
+                    "score": 140
+                },
+                {
+                    "date": "03-01-2025",
+                    "timestamp": 1735934551,
+                    "followers_count": 1887,
+                    "following_count": 175,
+                    "tweet_count": 554,
+                    "listed_count": 35,
+                    "key_followers": 141,
+                    "score": 141
+                },
+                {
+                    "date": "04-01-2025",
+                    "timestamp": 1736030913,
+                    "followers_count": 1900,
+                    "following_count": 176,
+                    "tweet_count": 562,
+                    "listed_count": 35,
+                    "key_followers": 141,
+                    "score": 141
+                },
+                {
+                    "date": "05-01-2025",
+                    "timestamp": 1736107097,
+                    "followers_count": 1901,
+                    "following_count": 175,
+                    "tweet_count": 568,
+                    "listed_count": 35,
+                    "key_followers": 141,
+                    "score": 141
+                },
+                {
+                    "date": "06-01-2025",
+                    "timestamp": 1736198705,
+                    "followers_count": 1900,
+                    "following_count": 176,
+                    "tweet_count": 570,
+                    "listed_count": 35,
+                    "key_followers": 141,
+                    "score": 141
+                },
+                {
+                    "date": "07-01-2025",
+                    "timestamp": 1736287026,
+                    "followers_count": 1897,
+                    "following_count": 176,
+                    "tweet_count": 588,
+                    "listed_count": 37,
+                    "key_followers": 142,
+                    "score": 142
+                },
+                {
+                    "date": "08-01-2025",
+                    "timestamp": 1736373647,
+                    "followers_count": 1919,
+                    "following_count": 178,
+                    "tweet_count": 613,
+                    "listed_count": 37,
+                    "key_followers": 144,
+                    "score": 144
+                },
+                {
+                    "date": "09-01-2025",
+                    "timestamp": 1736450709,
+                    "followers_count": 1927,
+                    "following_count": 178,
+                    "tweet_count": 622,
+                    "listed_count": 37,
+                    "key_followers": 144,
+                    "score": 144
+                },
+                {
+                    "date": "10-01-2025",
+                    "timestamp": 1736542366,
+                    "followers_count": 1919,
+                    "following_count": 176,
+                    "tweet_count": 626,
+                    "listed_count": 35,
+                    "key_followers": 144,
+                    "score": 144
+                },
+                {
+                    "date": "11-01-2025",
+                    "timestamp": 1736610254,
+                    "followers_count": 1919,
+                    "following_count": 177,
+                    "tweet_count": 627,
+                    "listed_count": 35,
+                    "key_followers": 144,
+                    "score": 144
+                },
+                {
+                    "date": "12-01-2025",
+                    "timestamp": 1736715683,
+                    "followers_count": 1923,
+                    "following_count": 177,
+                    "tweet_count": 630,
+                    "listed_count": 35,
+                    "key_followers": 144,
+                    "score": 144
+                },
+                {
+                    "date": "13-01-2025",
+                    "timestamp": 1736808059,
+                    "followers_count": 1977,
+                    "following_count": 177,
+                    "tweet_count": 647,
+                    "listed_count": 35,
+                    "key_followers": 147,
+                    "score": 147
+                },
+                {
+                    "date": "14-01-2025",
+                    "timestamp": 1736887035,
+                    "followers_count": 2025,
+                    "following_count": 183,
+                    "tweet_count": 657,
+                    "listed_count": 36,
+                    "key_followers": 147,
+                    "score": 147
+                },
+                {
+                    "date": "15-01-2025",
+                    "timestamp": 1736976882,
+                    "followers_count": 2033,
+                    "following_count": 183,
+                    "tweet_count": 659,
+                    "listed_count": 36,
+                    "key_followers": 147,
+                    "score": 147
+                },
+                {
+                    "date": "16-01-2025",
+                    "timestamp": 1737064856,
+                    "followers_count": 2054,
+                    "following_count": 183,
+                    "tweet_count": 669,
+                    "listed_count": 38,
+                    "key_followers": 151,
+                    "score": 151
+                },
+                {
+                    "date": "17-01-2025",
+                    "timestamp": 1737144903,
+                    "followers_count": 2064,
+                    "following_count": 185,
+                    "tweet_count": 674,
+                    "listed_count": 36,
+                    "key_followers": 151,
+                    "score": 151
+                },
+                {
+                    "date": "18-01-2025",
+                    "timestamp": 1737239148,
+                    "followers_count": 2071,
+                    "following_count": 188,
+                    "tweet_count": 682,
+                    "listed_count": 36,
+                    "key_followers": 153,
+                    "score": 153
+                },
+                {
+                    "date": "19-01-2025",
+                    "timestamp": 1737311026,
+                    "followers_count": 2086,
+                    "following_count": 193,
+                    "tweet_count": 689,
+                    "listed_count": 36,
+                    "key_followers": 153,
+                    "score": 153
+                },
+                {
+                    "date": "20-01-2025",
+                    "timestamp": 1737413254,
+                    "followers_count": 2105,
+                    "following_count": 193,
+                    "tweet_count": 698,
+                    "listed_count": 36,
+                    "key_followers": 155,
+                    "score": 155
+                },
+                {
+                    "date": "21-01-2025",
+                    "timestamp": 1737497133,
+                    "followers_count": 2151,
+                    "following_count": 202,
+                    "tweet_count": 719,
+                    "listed_count": 35,
+                    "key_followers": 159,
+                    "score": 159
+                },
+                {
+                    "date": "22-01-2025",
+                    "timestamp": 1737584881,
+                    "followers_count": 2243,
+                    "following_count": 205,
+                    "tweet_count": 730,
+                    "listed_count": 36,
+                    "key_followers": 165,
+                    "score": 165
+                },
+                {
+                    "date": "23-01-2025",
+                    "timestamp": 1737652450,
+                    "followers_count": 2299,
+                    "following_count": 208,
+                    "tweet_count": 736,
+                    "listed_count": 36,
+                    "key_followers": 166,
+                    "score": 166
+                },
+                {
+                    "date": "24-01-2025",
+                    "timestamp": 1737749783,
+                    "followers_count": 2340,
+                    "following_count": 214,
+                    "tweet_count": 745,
+                    "listed_count": 36,
+                    "key_followers": 171,
+                    "score": 171
+                },
+                {
+                    "date": "25-01-2025",
+                    "timestamp": 1737845438,
+                    "followers_count": 2368,
+                    "following_count": 216,
+                    "tweet_count": 750,
+                    "listed_count": 36,
+                    "key_followers": 174,
+                    "score": 174
+                },
+                {
+                    "date": "26-01-2025",
+                    "timestamp": 1737929108,
+                    "followers_count": 2495,
+                    "following_count": 236,
+                    "tweet_count": 783,
+                    "listed_count": 35,
+                    "key_followers": 182,
+                    "score": 182
+                },
+                {
+                    "date": "27-01-2025",
+                    "timestamp": 1738010516,
+                    "followers_count": 2584,
+                    "following_count": 237,
+                    "tweet_count": 787,
+                    "listed_count": 35,
+                    "key_followers": 185,
+                    "score": 185
+                },
+                {
+                    "date": "28-01-2025",
+                    "timestamp": 1738092789,
+                    "followers_count": 2623,
+                    "following_count": 238,
+                    "tweet_count": 804,
+                    "listed_count": 38,
+                    "key_followers": 189,
+                    "score": 189
+                },
+                {
+                    "date": "29-01-2025",
+                    "timestamp": 1738187612,
+                    "followers_count": 2703,
+                    "following_count": 240,
+                    "tweet_count": 827,
+                    "listed_count": 39,
+                    "key_followers": 194,
+                    "score": 194
+                },
+                {
+                    "date": "30-01-2025",
+                    "timestamp": 1738273283,
+                    "followers_count": 2790,
+                    "following_count": 241,
+                    "tweet_count": 832,
+                    "listed_count": 40,
+                    "key_followers": 200,
+                    "score": 200
+                },
+                {
+                    "date": "31-01-2025",
+                    "timestamp": 1738363808,
+                    "followers_count": 7648,
+                    "following_count": 251,
+                    "tweet_count": 913,
+                    "listed_count": 63,
+                    "key_followers": 334,
+                    "score": 334
+                },
+                {
+                    "date": "01-02-2025",
+                    "timestamp": 1738364701,
+                    "followers_count": 7709,
+                    "following_count": 251,
+                    "tweet_count": 913,
+                    "listed_count": 64,
+                    "key_followers": 335,
+                    "score": 335
+                },
+                {
+                    "date": "31-01-2025",
+                    "timestamp": 1738365258,
+                    "followers_count": 7764,
+                    "following_count": 251,
+                    "tweet_count": 916,
+                    "listed_count": 65,
+                    "key_followers": 335,
+                    "score": 335
+                },
+                {
+                    "date": "01-02-2025",
+                    "timestamp": 1738454026,
+                    "followers_count": 13868,
+                    "following_count": 256,
+                    "tweet_count": 985,
+                    "listed_count": 94,
+                    "key_followers": 445,
+                    "score": 445
+                },
+                {
+                    "date": "02-02-2025",
+                    "timestamp": 1738524793,
+                    "followers_count": 15534,
+                    "following_count": 265,
+                    "tweet_count": 1011,
+                    "listed_count": 101,
+                    "key_followers": 470,
+                    "score": 470
+                }
+            ],
+            "followers_when_found": 2,
+            "dexscreener": {
+                "schemaVersion": "1.0.0",
+                "pairs": [
+                    {
+                        "chainId": "base",
+                        "dexId": "uniswap",
+                        "url": "https://dexscreener.com/base/0x7b9fda92bfa6fdadfdc4f6c72c0cc8336e7d7497",
+                        "pairAddress": "0x7B9FDA92Bfa6FDadFdc4f6C72c0Cc8336e7d7497",
+                        "labels": [
+                            "v3"
+                        ],
+                        "baseToken": {
+                            "address": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
+                            "name": "Flayer",
+                            "symbol": "FLAY"
+                        },
+                        "quoteToken": {
+                            "address": "0x4200000000000000000000000000000000000006",
+                            "name": "Wrapped Ether",
+                            "symbol": "WETH"
+                        },
+                        "priceNative": "0.00003261",
+                        "priceUsd": "0.09603",
+                        "txns": {
+                            "m5": {
+                                "buys": 3,
+                                "sells": 1
+                            },
+                            "h1": {
+                                "buys": 68,
+                                "sells": 46
+                            },
+                            "h6": {
+                                "buys": 275,
+                                "sells": 223
+                            },
+                            "h24": {
+                                "buys": 1018,
+                                "sells": 976
+                            }
+                        },
+                        "volume": {
+                            "h24": 4303710.08,
+                            "h6": 1138543.48,
+                            "h1": 207994.32,
+                            "m5": 1620.53
+                        },
+                        "priceChange": {
+                            "m5": 1.58,
+                            "h1": -11.71,
+                            "h6": -16.11,
+                            "h24": -51.73
+                        },
+                        "liquidity": {
+                            "usd": 3472648.92,
+                            "base": 21316862,
+                            "quote": 484.1368
+                        },
+                        "fdv": 7429496,
+                        "marketCap": 64962175,
+                        "pairCreatedAt": 1738069501000,
+                        "info": {
+                            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/base/0xf1a7000000950c7ad8aff13118bb7ab561a448ee.png?key=4dd4a5",
+                            "header": "https://dd.dexscreener.com/ds-data/tokens/base/0xf1a7000000950c7ad8aff13118bb7ab561a448ee/header.png?key=4dd4a5",
+                            "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xf1a7000000950c7ad8aff13118bb7ab561a448ee?timestamp=1738524900000",
+                            "websites": [
+                                {
+                                    "label": "Website",
+                                    "url": "https://flaunch.gg "
+                                }
+                            ],
+                            "socials": [
+                                {
+                                    "type": "twitter",
+                                    "url": "https://x.com/Flaunchgg"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "chainId": "ethereum",
+                        "dexId": "uniswap",
+                        "url": "https://dexscreener.com/ethereum/0x68a70d80424a3f558873a0c467c554bcb723b227",
+                        "pairAddress": "0x68a70d80424a3f558873a0c467C554bcB723b227",
+                        "labels": [
+                            "v3"
+                        ],
+                        "baseToken": {
+                            "address": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
+                            "name": "Flayer",
+                            "symbol": "FLAY"
+                        },
+                        "quoteToken": {
+                            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                            "name": "Wrapped Ether",
+                            "symbol": "WETH"
+                        },
+                        "priceNative": "0.00003958",
+                        "priceUsd": "0.1148",
+                        "txns": {
+                            "m5": {
+                                "buys": 0,
+                                "sells": 0
+                            },
+                            "h1": {
+                                "buys": 6,
+                                "sells": 3
+                            },
+                            "h6": {
+                                "buys": 42,
+                                "sells": 40
+                            },
+                            "h24": {
+                                "buys": 319,
+                                "sells": 275
+                            }
+                        },
+                        "volume": {
+                            "h24": 2221055.21,
+                            "h6": 296341.6,
+                            "h1": 13471.13,
+                            "m5": 0
+                        },
+                        "priceChange": {
+                            "h1": -1.02,
+                            "h6": -0.43,
+                            "h24": -42.3
+                        },
+                        "liquidity": {
+                            "usd": 3160409.19,
+                            "base": 14097108,
+                            "quote": 531.551
+                        },
+                        "fdv": 114820536,
+                        "marketCap": 77051486,
+                        "pairCreatedAt": 1727269355000,
+                        "info": {
+                            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xf1a7000000950c7ad8aff13118bb7ab561a448ee.png?key=042c77",
+                            "header": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xf1a7000000950c7ad8aff13118bb7ab561a448ee/header.png?key=042c77",
+                            "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0xf1a7000000950c7ad8aff13118bb7ab561a448ee?timestamp=1738524900000",
+                            "websites": [
+                                {
+                                    "label": "Website ",
+                                    "url": "https://flaunch.gg "
+                                }
+                            ],
+                            "socials": [
+                                {
+                                    "type": "twitter",
+                                    "url": "https://x.com/Flaunchgg"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "chainId": "base",
+                        "dexId": "uniswap",
+                        "url": "https://dexscreener.com/base/0x5d41e880f146848ece3c4d75d2bd5f81d959771f",
+                        "pairAddress": "0x5d41e880F146848eCE3C4D75D2BD5F81d959771F",
+                        "labels": [
+                            "v3"
+                        ],
+                        "baseToken": {
+                            "address": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
+                            "name": "Flayer",
+                            "symbol": "FLAY"
+                        },
+                        "quoteToken": {
+                            "address": "0x4200000000000000000000000000000000000006",
+                            "name": "Wrapped Ether",
+                            "symbol": "WETH"
+                        },
+                        "priceNative": "0.00003259",
+                        "priceUsd": "0.09505",
+                        "txns": {
+                            "m5": {
+                                "buys": 1,
+                                "sells": 2
+                            },
+                            "h1": {
+                                "buys": 12,
+                                "sells": 15
+                            },
+                            "h6": {
+                                "buys": 112,
+                                "sells": 124
+                            },
+                            "h24": {
+                                "buys": 962,
+                                "sells": 796
+                            }
+                        },
+                        "volume": {
+                            "h24": 294567.45,
+                            "h6": 16427.27,
+                            "h1": 442.86,
+                            "m5": 23.73
+                        },
+                        "priceChange": {
+                            "m5": -0.8,
+                            "h1": -12.07,
+                            "h6": -16.69,
+                            "h24": -52.49
+                        },
+                        "liquidity": {
+                            "usd": 52044.16,
+                            "base": 522989,
+                            "quote": 0.7998
+                        },
+                        "fdv": 7353678,
+                        "marketCap": 64299233,
+                        "pairCreatedAt": 1738402155000,
+                        "info": {
+                            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/base/0xf1a7000000950c7ad8aff13118bb7ab561a448ee.png?key=4dd4a5",
+                            "header": "https://dd.dexscreener.com/ds-data/tokens/base/0xf1a7000000950c7ad8aff13118bb7ab561a448ee/header.png?key=4dd4a5",
+                            "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xf1a7000000950c7ad8aff13118bb7ab561a448ee?timestamp=1738524900000",
+                            "websites": [
+                                {
+                                    "label": "Website",
+                                    "url": "https://flaunch.gg "
+                                }
+                            ],
+                            "socials": [
+                                {
+                                    "type": "twitter",
+                                    "url": "https://x.com/Flaunchgg"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "chainId": "base",
+                        "dexId": "uniswap",
+                        "url": "https://dexscreener.com/base/0x6542145246aac0add5c3819c25d2d66f3709589e",
+                        "pairAddress": "0x6542145246AAc0ADd5c3819C25D2D66f3709589E",
+                        "labels": [
+                            "v3"
+                        ],
+                        "baseToken": {
+                            "address": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
+                            "name": "Flayer",
+                            "symbol": "FLAY"
+                        },
+                        "quoteToken": {
+                            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+                            "name": "USD Coin",
+                            "symbol": "USDC"
+                        },
+                        "priceNative": "0.1570",
+                        "priceUsd": "0.1570",
+                        "txns": {
+                            "m5": {
+                                "buys": 0,
+                                "sells": 0
+                            },
+                            "h1": {
+                                "buys": 0,
+                                "sells": 0
+                            },
+                            "h6": {
+                                "buys": 0,
+                                "sells": 0
+                            },
+                            "h24": {
+                                "buys": 89,
+                                "sells": 118
+                            }
+                        },
+                        "volume": {
+                            "h24": 19655.33,
+                            "h6": 0,
+                            "h1": 0,
+                            "m5": 0
+                        },
+                        "priceChange": {
+                            "h24": -19.66
+                        },
+                        "liquidity": {
+                            "usd": 14418.72,
+                            "base": 91420,
+                            "quote": 65.6216
+                        },
+                        "fdv": 12146180,
+                        "marketCap": 106204002,
+                        "pairCreatedAt": 1738372739000,
+                        "info": {
+                            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/base/0xf1a7000000950c7ad8aff13118bb7ab561a448ee.png?key=4dd4a5",
+                            "header": "https://dd.dexscreener.com/ds-data/tokens/base/0xf1a7000000950c7ad8aff13118bb7ab561a448ee/header.png?key=4dd4a5",
+                            "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xf1a7000000950c7ad8aff13118bb7ab561a448ee?timestamp=1738524900000",
+                            "websites": [
+                                {
+                                    "label": "Website",
+                                    "url": "https://flaunch.gg "
+                                }
+                            ],
+                            "socials": [
+                                {
+                                    "type": "twitter",
+                                    "url": "https://x.com/Flaunchgg"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "chainId": "base",
+                        "dexId": "aerodrome",
+                        "url": "https://dexscreener.com/base/0x49508923bafdc214b6556a7f6206cbc0f93c9988",
+                        "pairAddress": "0x49508923Bafdc214B6556A7F6206cbc0F93C9988",
+                        "baseToken": {
+                            "address": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
+                            "name": "Flayer",
+                            "symbol": "FLAY"
+                        },
+                        "quoteToken": {
+                            "address": "0x4200000000000000000000000000000000000006",
+                            "name": "Wrapped Ether",
+                            "symbol": "WETH"
+                        },
+                        "priceNative": "0.00003335",
+                        "priceUsd": "0.09838",
+                        "txns": {
+                            "m5": {
+                                "buys": 2,
+                                "sells": 2
+                            },
+                            "h1": {
+                                "buys": 8,
+                                "sells": 13
+                            },
+                            "h6": {
+                                "buys": 57,
+                                "sells": 60
+                            },
+                            "h24": {
+                                "buys": 356,
+                                "sells": 366
+                            }
+                        },
+                        "volume": {
+                            "h24": 12325.11,
+                            "h6": 2381.9,
+                            "h1": 431.66,
+                            "m5": 81.38
+                        },
+                        "priceChange": {
+                            "m5": 3.41,
+                            "h1": -10.21,
+                            "h6": -14.01,
+                            "h24": -50.25
+                        },
+                        "liquidity": {
+                            "usd": 4540.25,
+                            "base": 23073,
+                            "quote": 0.7696
+                        },
+                        "fdv": 7611687,
+                        "marketCap": 66555216,
+                        "pairCreatedAt": 1738372629000,
+                        "info": {
+                            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/base/0xf1a7000000950c7ad8aff13118bb7ab561a448ee.png?key=4dd4a5",
+                            "header": "https://dd.dexscreener.com/ds-data/tokens/base/0xf1a7000000950c7ad8aff13118bb7ab561a448ee/header.png?key=4dd4a5",
+                            "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xf1a7000000950c7ad8aff13118bb7ab561a448ee?timestamp=1738524900000",
+                            "websites": [
+                                {
+                                    "label": "Website",
+                                    "url": "https://flaunch.gg "
+                                }
+                            ],
+                            "socials": [
+                                {
+                                    "type": "twitter",
+                                    "url": "https://x.com/Flaunchgg"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "last_updated": 1738524793
+            },
+            "user_rating": null
+        }
+    }
+}

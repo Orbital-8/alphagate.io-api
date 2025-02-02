@@ -1,0 +1,136 @@
+{
+    "message": "Fetched tweets",
+    "data": {
+        "tweets": [
+            {
+                "_id": "1884573017914654802",
+                "created_at": "2025-01-29T12:03:15.000Z",
+                "id": "1884573017914654802",
+                "text": "🔵 $FLAY liquidity has been added to Base! 🙌\n\n$FLAY is now also available to trade on Base, where Flaunch will deploy.\n\nCA: 0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee https://t.co/6uvUEPwtrX",
+                "author_id": "1833423791646547968",
+                "entities": {
+                    "mentions": [],
+                    "hashtags": [],
+                    "cashtags": [
+                        {
+                            "start": 2,
+                            "end": 7,
+                            "tag": "FLAY"
+                        },
+                        {
+                            "start": 45,
+                            "end": 50,
+                            "tag": "FLAY"
+                        }
+                    ],
+                    "urls": []
+                },
+                "media": [
+                    {
+                        "type": "photo",
+                        "height": 1800,
+                        "width": 3200,
+                        "url": "https://pbs.twimg.com/media/GidWUWSWEAASkOq.jpg",
+                        "media_key": "3_1884569876657737728"
+                    }
+                ],
+                "username": "flaunchgg",
+                "contracts": [
+                    "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee"
+                ],
+                "author": {
+                    "flag": false,
+                    "name": "ƒlaunch",
+                    "username": "flaunchgg",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1836757887986925568/FqtYY4lP_normal.jpg",
+                    "blacklisted": false
+                }
+            },
+            {
+                "_id": "1879643081915711588",
+                "created_at": "2025-01-15T21:33:27.000Z",
+                "id": "1879643081915711588",
+                "text": "🚨 BREAKING:\n\nThe $FLAY CoinGecko page has been updated to correctly show the market cap &amp; circulating supply!\n\n$FLAY is the ONLY token for Flaunch &amp; Flayer Labs, with the mainnet CA\n\n0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee\n\nAll others are scams. This concludes our report. https://t.co/GosWJ4iVvY",
+                "author_id": "1833423791646547968",
+                "entities": {
+                    "mentions": [],
+                    "hashtags": [],
+                    "cashtags": [
+                        {
+                            "start": 17,
+                            "end": 22,
+                            "tag": "FLAY"
+                        },
+                        {
+                            "start": 115,
+                            "end": 120,
+                            "tag": "FLAY"
+                        }
+                    ],
+                    "urls": []
+                },
+                "media": [
+                    {
+                        "type": "photo",
+                        "height": 412,
+                        "width": 445,
+                        "url": "https://pbs.twimg.com/media/GhXTzkpWYAAMs2W.png",
+                        "media_key": "3_1879641302460948480"
+                    }
+                ],
+                "username": "flaunchgg",
+                "contracts": [
+                    "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee"
+                ],
+                "author": {
+                    "flag": false,
+                    "name": "ƒlaunch",
+                    "username": "flaunchgg",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1836757887986925568/FqtYY4lP_normal.jpg",
+                    "blacklisted": false
+                }
+            },
+            {
+                "_id": "1870602437352190420",
+                "created_at": "2024-12-21T22:49:09.000Z",
+                "id": "1870602437352190420",
+                "text": "Have you taken a look at $FLAY's contract magic? 👇\n\n0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee\n\n0xF1A7 = FLAY ✨ https://t.co/sSACH1WITN",
+                "author_id": "1833423791646547968",
+                "entities": {
+                    "mentions": [],
+                    "hashtags": [],
+                    "cashtags": [
+                        {
+                            "start": 25,
+                            "end": 30,
+                            "tag": "FLAY"
+                        }
+                    ],
+                    "urls": []
+                },
+                "media": [
+                    {
+                        "type": "photo",
+                        "height": 361,
+                        "width": 527,
+                        "url": "https://pbs.twimg.com/media/GfW2iPpWgAA9K03.png",
+                        "media_key": "3_1870601919674089472"
+                    }
+                ],
+                "contracts": [
+                    "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee"
+                ],
+                "username": "flaunchgg",
+                "author": {
+                    "flag": false,
+                    "name": "ƒlaunch",
+                    "username": "flaunchgg",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1836757887986925568/FqtYY4lP_normal.jpg",
+                    "blacklisted": false
+                }
+            }
+        ],
+        "hasNext": false,
+        "hasTwoNext": false
+    }
+}
